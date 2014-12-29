@@ -3,8 +3,9 @@ package com.example.vocabbook;
 import java.util.ArrayList;
 import java.util.List;
 
-import models.Word;
-import models.WordsDAO;
+import com.example.vocabbook.models.Word;
+import com.example.vocabbook.models.WordsDAO;
+
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.Fragment;

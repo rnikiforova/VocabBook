@@ -1,4 +1,4 @@
-package models;
+package com.example.vocabbook.models;
 
 import java.util.ArrayList;
 import java.util.HashMap;

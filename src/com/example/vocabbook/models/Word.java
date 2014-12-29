@@ -1,4 +1,4 @@
-package models;
+package com.example.vocabbook.models;
 
 public class Word {
 	private long id;

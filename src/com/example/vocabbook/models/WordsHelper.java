@@ -1,4 +1,4 @@
-package models;
+package com.example.vocabbook.models;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
